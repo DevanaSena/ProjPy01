@@ -1,6 +1,6 @@
 ## Introdução ao processo de Automação com Python 1 dia
 
-Durante a Jornada Python Power UP, aprendi a desenvolver um projeto de automação utilizando a linguagem Python, focado em automatizar o cadastro de produtos em um sistema. As principais tecnologias e ferramentas que utilizei foram:
+Durante a Jornada Python da Hasttag no primeiro dia o Power UP, aprendi a desenvolver um projeto de automação utilizando a linguagem Python, focado em automatizar o cadastro de produtos em um sistema. As principais tecnologias e ferramentas que utilizei foram:
 
 <strong>Biblioteca Pandas:</strong> Para importar e visualizar a base de dados (arquivo CSV) de produtos, facilitando a manipulação e análise das informações.<br><br>
 <strong>Biblioteca PyAutoGUI:</strong> Para controlar o mouse e o teclado, permitindo a automação das ações necessárias para o cadastro dos produtos no sistema. Utilizei os comandos pyautogui.press (pressionar teclas), pyautogui.write (digitar texto) e pyautogui.click (clicar com o mouse).<br><br>
