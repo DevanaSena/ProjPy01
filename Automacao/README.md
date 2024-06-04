@@ -1,4 +1,4 @@
-## Introdução ao processo de Automação com Python 1 dia
+## Processo de Automação com Python 1 dia
 
 Durante a Jornada Python da Hasttag no primeiro dia o Power UP, aprendi a desenvolver um projeto de automação utilizando a linguagem Python, focado em automatizar o cadastro de produtos em um sistema. As principais tecnologias e ferramentas que utilizei foram:
 
