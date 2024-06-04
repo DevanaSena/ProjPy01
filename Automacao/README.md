@@ -8,6 +8,8 @@ Durante a Jornada Python Power UP, aprendi a desenvolver um projeto de automaç�
 <strong>Automação de Tarefas:</strong> Criei scripts para abrir o navegador, acessar o sistema, realizar login e cadastrar produtos, otimizando processos manuais e minimizando erros.<br><br>
 Este projeto me proporcionou uma visão prática de como a automação pode ser aplicada para aumentar a produtividade e a eficiência no ambiente de trabalho.
 
+![aula1PythonAutomacao](https://github.com/DevanaSena/ProjPy01/assets/145565646/efa4bc18-c087-4d13-8b86-8c5d9ec8aef7)
+
 
 # Setup
   - Instalação do vscode criação da 📂 do projeto e um arquivo py.
