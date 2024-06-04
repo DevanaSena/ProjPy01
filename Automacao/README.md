@@ -1,13 +1,13 @@
-### Introdução ao processo de Automação com Python
+# Introdução ao processo de Automação com Python
 
-### Setup
+# Setup
   - Instalação do vscode criação da 📂 do projeto e um arquivo py.
 	- Entrar no sistema da emoresa 
 	- https://dlp.hashtagtreinamentos.com/python/intensivao/login
 		- pip install pyautogui
 		- python.exe -m pip install --upgrade pip
 
-### Comandos do Pyautogui
+# Comandos do Pyautogui
 
 	- Realizar o login
 	- Importar a base de dados 
@@ -18,10 +18,18 @@
 # Passo 1: Entrar no sistema da empresa 
     # https://dlp.hashtagtreinamentos.com/python/intensivao/login
 
+```python
+
 import pyautogui
 import time
+import pandas
+
+pyautogui.PAUSE = 0.6
+pyautogui.scroll(50)
+
 # pip install pyautogui
 # python.exe -m pip install --upgrade pip
+
 # pyautogui.write -> escrever um texto
 # pyautogui.press -> apertar 1 tecla
 # pyautogui.click -> clicar em algum lugar da tela
@@ -87,8 +95,8 @@ for linha in tabela.index:
     pyautogui.press("enter") # cadastra o produto (botao enviar)
     # dar scroll de tudo pra cima
     pyautogui.scroll(5000)
-    # Passo 5: Repetir o processo de cadastro até o fim
-
+    # Passo 5: Repetir o processo de cadastro até o fim 
+´´´
 
 
 
