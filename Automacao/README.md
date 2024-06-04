@@ -1,4 +1,13 @@
-# Introdução ao processo de Automação com Python
+## Introdução ao processo de Automação com Python 1 dia
+
+Durante a Jornada Python Power UP, aprendi a desenvolver um projeto de automação utilizando a linguagem Python, focado em automatizar o cadastro de produtos em um sistema. As principais tecnologias e ferramentas que utilizei foram:
+
+<strong>Biblioteca Pandas:</strong> Para importar e visualizar a base de dados (arquivo CSV) de produtos, facilitando a manipulação e análise das informações.<br><br>
+<strong>Biblioteca PyAutoGUI:</strong> Para controlar o mouse e o teclado, permitindo a automação das ações necessárias para o cadastro dos produtos no sistema. Utilizei os comandos pyautogui.press (pressionar teclas), pyautogui.write (digitar texto) e pyautogui.click (clicar com o mouse).<br><br>
+<strong>Estruturas de Repetição e Condicionais:</strong> Para percorrer a base de dados e realizar o cadastro automático de cada produto, verificando e preenchendo os campos necessários no sistema.<br><br>
+<strong>Automação de Tarefas:</strong> Criei scripts para abrir o navegador, acessar o sistema, realizar login e cadastrar produtos, otimizando processos manuais e minimizando erros.<br><br>
+Este projeto me proporcionou uma visão prática de como a automação pode ser aplicada para aumentar a produtividade e a eficiência no ambiente de trabalho.
+
 
 # Setup
   - Instalação do vscode criação da 📂 do projeto e um arquivo py.
@@ -14,7 +23,6 @@
 	- Cadastrar um produto
 	- Repetir o processo até o cadastro acabar
 
-# Passo a passo do projeto
 # Passo 1: Entrar no sistema da empresa 
     # https://dlp.hashtagtreinamentos.com/python/intensivao/login
 
